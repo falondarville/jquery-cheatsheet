@@ -1,4 +1,4 @@
-#JQuery Cheatsheet
+JQuery Cheatsheet
 
 Hello! I've compiled this cheatsheet of some of the great things that JQuery can do for manipulating HTML and CSS. I wrote all of these out based on Derek Banas' YouTube video on JQuery. 
 
